@@ -1,3 +1,5 @@
 ## THIS IS H2 HEADING
 
-uses markdown. 
+uses markdown.
+
+new line added
